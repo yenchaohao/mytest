@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/ehcache-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/infinispan-core-4.0.0.FINAL.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/school/ZA101_Hibernate課程分享/02_myLib_Hibernate/myLib_Hibernate/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/school/SL314_Servlet課程分享/SL314_課程中分享/17_※JSTL(webapps)/SL314_JSTL/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="D:/school/SL314_Servlet課程分享/SL314_課程中分享/17_※JSTL(webapps)/SL314_JSTL/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="D:/school/SL314_Servlet課程分享/SL314_第一次分享/01_Servlet_Container/apache-tomcat-7.0.56/apache-tomcat-7.0.56/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
